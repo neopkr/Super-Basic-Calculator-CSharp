@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totsu", "Calculadora\Totsu.csproj", "{32260AA7-A828-4783-AEFD-F7522CD3C05E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32260AA7-A828-4783-AEFD-F7522CD3C05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32260AA7-A828-4783-AEFD-F7522CD3C05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32260AA7-A828-4783-AEFD-F7522CD3C05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32260AA7-A828-4783-AEFD-F7522CD3C05E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE434C4E-AD99-46C1-A64D-CE3C1B6D7850}
+	EndGlobalSection
+EndGlobal

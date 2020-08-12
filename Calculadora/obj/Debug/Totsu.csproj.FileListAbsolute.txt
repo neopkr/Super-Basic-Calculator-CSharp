@@ -1,0 +1,11 @@
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Totsu.csprojAssemblyReference.cache
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Totsu.csproj.CoreCompileInputs.cache
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Calculadora.application
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\neopk\Desktop\asdfsdf3\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
