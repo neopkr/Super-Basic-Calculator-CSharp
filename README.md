@@ -1,6 +1,2 @@
 # Super-Basic-CalculatorC#
-This is my first app in C#
-
-I'm trying to learn C# and this is my first aplication, yes, a calculator, but its works xD.
-
-Compile in Debug F5.
+By request of a friend i decided to do this calculator for he can learning a little bit about of this language. For everyone who wants to starts in C#.
